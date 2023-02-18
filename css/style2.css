@@ -1,0 +1,66 @@
+.pho{
+    color: white;
+}
+.pic{
+    background-image: url("../img/Glowing-Butterfly-Photo-Manipulation-in-Photoshop-S1Oj_XfAeGnmBM.jpg");
+    border-radius: 10px;
+   padding: 4%;
+   background-position: 10%;
+}
+
+body{
+    background-color: black;
+    background-image: url("../img/Magical-Glowing-Butterfly-3D-model-by-Magicalorbs-\(@orbsmagic-LwKWhHPygZZK4M.jpg");
+}
+.text{
+    color: red;
+}
+.text p{
+    color: white;
+    position: relative;
+    width: 20%;
+}
+.num p{
+    color: white;
+    width: calc(33% - 20px);
+    background: #222;
+    text-align: center;
+    border-radius: 6px;
+    padding: 20px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+p:hover{
+    background: lightseagreen;
+}
+.p2{
+    color: white;
+    width: calc(33% - 20px);
+    background: #222;
+    text-align: center;
+    border-radius: 6px;
+    padding: 20px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+}
+.p2:hover{
+    background: lightseagreen;
+    
+    
+}
+.card{
+    color:orange;
+}
+.pic2{
+    background-image: url("../img/pexels-michael-steinberg-342943.jpg");
+    border-radius: 10px;
+    padding: 4%;
+    background-position: 20%;
+}
+.pic3{
+    background-image: url("../img/amy-shamblen-htla-WGes-c-unsplash.jpg");
+    border-radius: 10px;
+    padding: 4%;
+    background-position: 10%;
+}
